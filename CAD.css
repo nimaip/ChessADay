@@ -1,0 +1,41 @@
+h1{
+	color: #000000;
+	font-size: 100px;
+	text-align: center;
+}
+
+img {
+	border-color: blue;
+	border-width: 10px;}
+
+td{
+	font-size: 40px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body{
+	background: rgba(10, 10, 100, 0.3)
+}
+
+button{
+  border-radius: 95px;
+  background: rgb(5, 155, 245);
+  padding: 0px;
+  width: 155px;
+  height: 50px;
+  font-size: 20px;
+  	  
+}
+
+ .checkboxes{
+ 	zoom: 2;
+ }
+
+ .buttons{
+ 	padding: 100px;
+ 	text-align: center;
+ }
